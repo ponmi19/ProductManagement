@@ -1,0 +1,10 @@
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Form1.resources
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.Properties.Resources.resources
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\thatthada\source\repos\ProductManagement\ProductManagement\obj\Debug\ProductManagement.pdb
